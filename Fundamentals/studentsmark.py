@@ -1,0 +1,9 @@
+m1=int(input("enter the marks in english"))
+m2=int(input("enter the marks in maths"))
+m3=int(input("enter the marks in physics"))
+m4=int(input("enter the marks in chemistry"))
+m5=int(input("enter the marks in malayalam"))
+total=m1+m2+m3+m4+m5
+average=total/5
+print("Total marks=",total)
+print("Average marks=",average)
